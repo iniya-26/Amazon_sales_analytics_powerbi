@@ -97,7 +97,7 @@ df.to_csv("cleaned_amazon_data.csv", index=False)
 
 
 
-![Amazon Dashboard](amazon_dashboard.png)
+![Amazon Dashboard](amazon%20dashboard.png)
 ## 👩‍💻 Author
 
 **Iniya**
