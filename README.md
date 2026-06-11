@@ -93,7 +93,11 @@ df.to_csv("cleaned_amazon_data.csv", index=False)
 - **Columns:** product_id, product_name, category, discounted_price, actual_price, discount_percentage, rating
 
 ---
+## 📸 Dashboard Preview
 
+
+
+![Amazon Dashboard](amazon dashboard.png)
 ## 👩‍💻 Author
 
 **Iniya**
