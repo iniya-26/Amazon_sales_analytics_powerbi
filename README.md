@@ -102,4 +102,5 @@ df.to_csv("cleaned_amazon_data.csv", index=False)
 
 **Iniya**
 - GitHub: [github.com/iniya-26](https://github.com/iniya-26)
+- LinkedIn: [linkedin.com/in/iniya-prithingara-140112332](https://www.linkedin.com/in/iniya-prithingara-140112332)
 - 
