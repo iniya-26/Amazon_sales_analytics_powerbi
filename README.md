@@ -102,6 +102,4 @@ df.to_csv("cleaned_amazon_data.csv", index=False)
 
 **Iniya**
 - GitHub: [github.com/iniya-26](https://github.com/iniya-26)
-- Internship: TVK Technologies
-- Domain: Data Analytics
--
+- 
